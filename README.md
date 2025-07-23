@@ -11,14 +11,19 @@ The primary goal of this module was to apply programming skills to build robust 
 This repository showcases an AI application:
 **Emotion Detection Tool**
 * An application capable of detecting emotions (e.g., joy, sadness, anger) based on text input.
+
 * This project served as a peer-assessed final assignment to evaluate proficiency in applying AI skills.
+
 * Utilizes IBM Watson AI for advanced natural language processing to identify emotional nuances in text.
 
-### Common Practices Applied
+**Common Practices Applied**
+
 The development process included a strong focus on software quality:
 
 * **Unit Testing:** Comprehensive unit tests were implemented to ensure the reliability and correctness of the application logic.
+  
 * **Static Code Analysis:** Tools and practices for static code analysis were incorporated to maintain code quality, identify potential issues, and ensure adherence to coding standards.
+  
 * **Error Handling:** Robust error handling mechanisms were integrated to make the applications more resilient and user-friendly in production environments.
 
 ## Technologies Used
