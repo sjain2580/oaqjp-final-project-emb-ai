@@ -1,4 +1,5 @@
 # Text-based Sentiment Analysis tool
+![Text-based Sentiment Analysis tool](./assets/IBM_Course.png)
 
 ## Overview
 
@@ -6,10 +7,9 @@ This repository contains two AI-based applications developed as part of the **"D
 
 The primary goal of this module was to apply programming skills to build robust AI solutions for text analysis, ensuring they are reliable and production-ready through rigorous testing and error handling.
 
-## Project Components & Features
-This repository showcases a distinct AI application:
-
-### Emotion Detection Tool (Final Project)
+## Features
+This repository showcases an AI application:
+**Emotion Detection Tool**
 * An application capable of detecting emotions (e.g., joy, sadness, anger) based on text input.
 * This project served as a peer-assessed final assignment to evaluate proficiency in applying AI skills.
 * Utilizes IBM Watson AI for advanced natural language processing to identify emotional nuances in text.
@@ -27,10 +27,8 @@ The development process included a strong focus on software quality:
 * **Flask:** A lightweight micro-web framework used for building the web interfaces of both applications.
 * **IBM Watson AI Libraries:** Key libraries used for performing sentiment analysis and emotion detection.
     
-## How to Run the Application
-
-To set up and run the application locally:
-
+## How to Run the Project
+To view this project locally on your machine:
 1.  **Fork the repository:**
     ```bash
     https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai
@@ -55,11 +53,15 @@ To set up and run the application locally:
     flask run
     ```
 
-## Course Completion & Verification
+## Live Deployment
+Check the live app here - **https://sjain2580.github.io/oaqjp-final-project-emb-ai**
 
-This project is a significant outcome of the **"Developing AI Applications with Python and Flask"** course from Coursera, authorized by IBM.
+## Course Completion Certificate
+I successfully completed the **"Developing AI Applications with Python and Flask"** course from Coursera, authorized by IBM.
+**https://www.coursera.org/account/accomplishments/verify/VH7BDWH1HFTY**
 
-**Course Certificate Verification:** https://www.coursera.org/account/accomplishments/verify/VH7BDWH1HFTY
+## Contributors
+**https://github.com/sjain2580**
 
 ## Connect with Me
 Feel free to reach out if you have any questions or just want to connect!
