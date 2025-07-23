@@ -1,4 +1,4 @@
-# AI-Powered Text Analysis Applications
+# Text-based Sentiment Analysis tool
 
 ## Overview
 
